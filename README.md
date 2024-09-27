@@ -79,9 +79,6 @@ Augmenting the data and countering class imbalance helped in improving the accur
 - Matplotlib
 - NumPy
 
-# Contact
-
-Created by [@sukhijapiyush] - feel free to contact me!
 
 # License
 
